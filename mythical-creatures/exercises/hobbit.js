@@ -25,6 +25,6 @@ class Hobbit {
       return 'You can\'t have it!'
     }
   };
-}
+};
 
 module.exports = Hobbit;
